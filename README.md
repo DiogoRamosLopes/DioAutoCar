@@ -207,12 +207,6 @@ Contribuições são bem-vindas! Para contribuir:
 - GitHub: [@DiogoRamosLopes](https://github.com/DiogoRamosLopes)
 - LinkedIn: [Diogo Ramos Lopes](https://www.linkedin.com/in/diogo-ramos-lopes-335808353/)
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
----
-
 ### Agradecimentos
 
 Projeto desenvolvido durante o curso técnico de Informática na ETEC.
