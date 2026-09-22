@@ -58,7 +58,7 @@ Este é um sistema CRUD (Create, Read, Update, Delete) que permite o gerenciamen
 - **MySQL** — banco de dados
 - **HTML5** — estrutura das páginas
 - **CSS3** — estilização
-- **JavaScript** — interatividade (se aplicável)
+- **JavaScript** — interatividade
 
 ## Estrutura do Projeto
 
