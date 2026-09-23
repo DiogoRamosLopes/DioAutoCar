@@ -169,7 +169,7 @@ CREATE TABLE tb_cliente (
 
 > As demais tabelas (`tb_fornecedor`, `tb_funcionario`, `tb_produto`) seguem o mesmo princípio, com colunas de acordo com os campos de cada formulário de cadastro. Recomendo criar um arquivo `database.sql` na raiz do projeto com o `CREATE TABLE` de todas elas, para facilitar a instalação por outras pessoas.
 
-## Screenshots
+## Fotos do projeto
 
 **Tela de login**
 
